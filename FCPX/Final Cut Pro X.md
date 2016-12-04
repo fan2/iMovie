@@ -17,6 +17,7 @@ Compressor为Final Cut Pro X 导出增添了功能和灵活性。自定了输出
 [c4dsky 微信公众号](http://mp.weixin.qq.com/s?src=3&timestamp=1477989323&ver=1&signature=oWNtzrZq9cm5ohQc6CgEL16jF9bYiRAr8JtoIQk22jurF93yZoUIQ5DBsGFxkQpj4SGw3jZYHHbINXX1P*JHOcyGca4gPqdh-dk1Xl-lb6SuKXZnUF6GgSLabdbIIwzsr2jyTB71qzmnkIXEeGbe6Zzv-OuW6aGui4L0T6Kbg3s=)：https://pan.baidu.com/s/1geXQ59p  
 
 ## 教程
+[Final Cut Pro 资源](http://www.apple.com/cn/final-cut-pro/resources/)
 
 [Final Cut Pro 帮助](http://finalcutpro.skydocu.com/zh-cn)
 
@@ -36,16 +37,9 @@ Compressor为Final Cut Pro X 导出增添了功能和灵活性。自定了输出
 [FCPEffects Plugins Bundle 2016 MacOSX](http://91porn04.com/10/636747.html)
 
 ## 字幕
+卡拉OK字幕解决方案：两层字幕打点遮盖  
+检查器 变换 不透明度 后面有小三角 打关键帧(control + v)  
 
 [Final Cut Pro X: 将字幕添加到项目](https://support.apple.com/kb/PH12599?locale=zh_CN&viewlocale=zh_CN)  
 [Final Cut Pro X: 调整字幕](https://support.apple.com/kb/PH12600?locale=zh_CN&viewlocale=zh_CN)  
 [我也想好好看字兒- Final Cut Pro字幕篇](http://mp.weixin.qq.com/s?src=3&timestamp=1477984449&ver=1&signature=LEbAqPVGfxB5afd2*7wGGOlUdVFRGSDKX-t-iMpkdL4-CEIS2x2ikQIy21bEVc4Inj1k4Tw59ucC3ud7EUJ4YB6Sdu4*6444DX3oBxC7BWhBY1X3Tr5VaMQWVMWsV3KTOneA7QUZaF1FSSwP7tOIUorFB4NibGuvD9myng7gKKg=)  
-
-[Final Cut Pro X 拍唱词免费使用解决方案 ArcTime + fiveLoadSub](http://www.yakfx.com/304.html)
-
-卡拉OK字幕解决方案：两层字幕打点遮盖
-
-[ProKaraoke —— Karaoke Tools for FCPX](http://store.pixelfilmstudios.com/product/prokaraoke/)
-
-
-
