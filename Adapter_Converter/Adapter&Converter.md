@@ -52,9 +52,20 @@ Mac下一款视频格式转换软件，它可以将我们的视频转换为 H265
 H265 Converter Pro 能将其他格式的视频文件转换成为 mkv 格式的视频，基于 H.265 视频解码器实现 mkv 转换。
 
 ### iFFmpeg Adapter
-iFFmpeg  
-Adapter  
-Permute  
+#### [iFFmpeg](http://www.iffmpeg.com/)
+
+A Comprehensive Media Tool for macOS
+
+Making High Quality Video Encoding Accessible for Everyone
+
+#### [Adapter](https://macroplant.com/adapter)
+
+Adapter Converts Video, Audio and Images.
+
+Combine an FFmpeg powered back-end with VLC rendered previews, then add in file size estimation, a gorgeous user interface and make it entirely free. That is Adapter - the ultimate converter app for Mac and PC.
+
+#### [Permute](http://software.charliemonroe.net/permute.php)
+[Permute：傻瓜式格式转换器](https://www.waerfa.com/permute)
 
 ### 其他
 
@@ -123,6 +134,8 @@ AudioTunes是一款强大的音频转换器，仅仅通过3次点击iTunes即可
 <http://www.sdifen.com/anyflacconverter3819.html>
 
 Any FLAC Converter 是 Mac 下的一款音频格式转换软件，主要用于把 FLAC 文件转换为其他格式的音频文件。
+
+<http://www.orsoon.com/Mac/150615.html>
 
 ### 其他
 - [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html)  
