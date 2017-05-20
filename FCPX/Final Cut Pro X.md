@@ -33,6 +33,11 @@ Compressor为Final Cut Pro X 导出增添了功能和灵活性。自定了输出
 
 [VideoStar](http://service.ivideostar.com/bbs/forum-77-2.html)
 
+[字幕和发生器 标题动画插件](http://www.sdifenzhou.com/prointroglamour.html) [ProIntro: Glamour](http://store.pixelfilmstudios.com/product/prointro-glamour/)  
+[转场 标题动画插件](http://www.sdifenzhou.com/transtext2.html) [TransText: Volume 2 ](http://store.pixelfilmstudios.com/product/transtext-volume-2/)  
+
+[三维视频墙插件](http://www.sdifenzhou.com/prowall.html) [ProWall: Volume 1](http://store.pixelfilmstudios.com/product/prowall-volume-1/)
+
 ## 特效
 [FCPEffects Plugins Bundle 2016 MacOSX](http://91porn04.com/10/636747.html)
 
