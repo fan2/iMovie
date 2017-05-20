@@ -75,7 +75,7 @@
 
 ![Audio_Hijack-12-EditCut.png](images/Audio_Hijack-12-EditCut.png)
 
-Quicktime Player 编辑后默认保存为 `MOV` 格式，也可选择导出仅音频 `m4a` 格式，再使用 All2MP3、Adapter、Permute、Total Video Converter Pro 等工具转码为 MP3 格式音频文件。
+Quicktime Player 编辑后默认保存为 `MOV` 格式，也可选择导出仅音频 `m4a` 格式，再使用 [All2MP3](https://www.tresrrr.com/)、[Fission](http://www.rogueamoeba.com/fission/) 或 [Adapter](https://macroplant.com/adapter)、[Permute](http://software.charliemonroe.net/permute.php)、[Total Video Converter Pro](http://www.effectmatrix.com/total-video-converter/) 等工具转码为 MP3 格式音频文件。
 
 ## 会话历史
 重新启动 Audio Hijack，打开的首页 Sessions 下可以看到之前录制的历史会话，点击可进入重新录制。
