@@ -2,6 +2,10 @@
 
 [如何快速的提取视频文件中的音频](http://www.jianshu.com/p/a7971405a492)  
 
+[Audio Hijack 3：让录音工作流程化](https://www.waerfa.com/audio-hijack-3-review-in-chinese)  
+[Audio Hijack for mac 3.3.3 录制任何应用程序的音频](https://www.macpeers.com/57/76541.html)  
+[Audio Hijack – Mac录音软件，支持互联网音频流](https://www.xia1ge.com/audio-hijack.html)  
+
 ## 启动 Audio Hijack
 
 ![Audio_Hijack-1-New_Session.png](images/Audio_Hijack-1-New_Session.png)
@@ -71,7 +75,7 @@
 
 ![Audio_Hijack-12-EditCut.png](images/Audio_Hijack-12-EditCut.png)
 
-Quicktime Player 编辑后默认保存为 `MOV` 格式，也可选择导出仅音频 `m4a` 格式，再使用 Adapter、Permute、All2MP3 等工具转码为 MP3 格式音频文件。
+Quicktime Player 编辑后默认保存为 `MOV` 格式，也可选择导出仅音频 `m4a` 格式，再使用 All2MP3、Adapter、Permute、Total Video Converter Pro 等工具转码为 MP3 格式音频文件。
 
 ## 会话历史
 重新启动 Audio Hijack，打开的首页 Sessions 下可以看到之前录制的历史会话，点击可进入重新录制。
