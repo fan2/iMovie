@@ -64,6 +64,15 @@
 
 ![Audio_Hijack-10-Music-Audio_Hijack.png](images/Audio_Hijack-10-Music-Audio_Hijack.png)
 
+#### 编辑音频
+一般打开网页到正式播放有一段加载延时，导致录制的前几秒可能是空白；中途可能有事出去了一会，回来后发现录制时长超过音频原长。
+
+此时可将录制生成的 MP3 文件用 Quicktime Player 打开，然后打开菜单 `编辑|修剪`（<kbd>⌘</kbd><kbd>T</kbd>）对音频进行两端向中间拖动收窄（删除首尾空白）即可截取保留中间有效的音频时段。
+
+![Audio_Hijack-12-EditCut.png](images/Audio_Hijack-12-EditCut.png)
+
+Quicktime Player 编辑后默认保存为 `MOV` 格式，也可选择导出仅音频 `m4a` 格式，再使用 Adapter、Permute、All2MP3 等工具转码为 MP3 格式音频文件。
+
 ## 会话历史
 重新启动 Audio Hijack，打开的首页 Sessions 下可以看到之前录制的历史会话，点击可进入重新录制。
 
